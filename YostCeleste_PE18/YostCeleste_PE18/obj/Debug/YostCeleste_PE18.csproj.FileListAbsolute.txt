@@ -1,0 +1,7 @@
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\bin\Debug\YostCeleste_PE18.exe.config
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\bin\Debug\YostCeleste_PE18.exe
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\bin\Debug\YostCeleste_PE18.pdb
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\obj\Debug\YostCeleste_PE18.csprojAssemblyReference.cache
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\obj\Debug\YostCeleste_PE18.csproj.CoreCompileInputs.cache
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\obj\Debug\YostCeleste_PE18.exe
+C:\Users\Celeste\Desktop\YostCeleste_PE18\YostCeleste_PE18\obj\Debug\YostCeleste_PE18.pdb
